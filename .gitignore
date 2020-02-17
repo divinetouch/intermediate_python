@@ -5,3 +5,5 @@ __pycache__/
 .idea
 
 data.db
+.DS_Store
+sqrt.log
